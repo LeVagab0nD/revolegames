@@ -7,5 +7,7 @@ Nous avons passé énormément de temps dessus le développement de Revole Games
 Merci à tous les joueurs de nous avoir fait vivre ça !
 
 Groupe:https://steamcommunity.com/groups/rvgamesbws
+
 Discord:https://discord.gg/pdYmKUj
+
 Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=957520141
